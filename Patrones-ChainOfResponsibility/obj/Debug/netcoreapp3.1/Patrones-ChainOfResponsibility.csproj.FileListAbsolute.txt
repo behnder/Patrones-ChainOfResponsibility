@@ -1,0 +1,14 @@
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\bin\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.exe
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\bin\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.deps.json
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\bin\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.runtimeconfig.json
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\bin\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.runtimeconfig.dev.json
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\bin\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.dll
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\bin\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.pdb
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\obj\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\obj\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\obj\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.AssemblyInfoInputs.cache
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\obj\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.AssemblyInfo.cs
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\obj\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\obj\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.dll
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\obj\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.pdb
+E:\unity\quark\Patrones\Patrones-ChainOfResponsibility\Patrones-ChainOfResponsibility\obj\Debug\netcoreapp3.1\Patrones-ChainOfResponsibility.genruntimeconfig.cache
